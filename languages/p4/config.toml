@@ -1,0 +1,4 @@
+name = "P4 Language"
+grammar = "p4"
+path_suffixes = ["p4"]
+line_comments = ["// "]
